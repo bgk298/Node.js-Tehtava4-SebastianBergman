@@ -1,6 +1,6 @@
 const express = require("express");
 
-const pois = require("./Tehtava4_2");
+const pois = require("./Tehtava4_2-3");
 const auth = require("./autentikointi.js");
 
 const app = express();
